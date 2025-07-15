@@ -1,2 +1,2 @@
 # Cycle-Gans Summer Project
-IIK Consulting Group
+IITK Consulting Group
